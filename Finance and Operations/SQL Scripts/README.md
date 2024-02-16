@@ -1,0 +1,1 @@
+Run [ValidateArchiveTableSchema](ValidateArchiveTableSchema.sql) SQL script on FinOps DB to identify the custom fields present on the live tables that are not added to the corresponding history tables and BI entities.
