@@ -22,8 +22,8 @@
     Installed msft_DataArchivalBaseComponents version | Update to target version |
     --------------------------------------------------|------------------------- |
     | 1.0.0.171 | [1.0.0.173](DataArchivalApps_managed_Package_ver1.0.0.173.zip) |
-    | 1.0.0.172, 1.0.0.179 | [1.0.0.180](DataArchivalApps_managed_Package_ver1.0.0.173.zip) |
-    | 1.0.0.176, 1.0.0.182, 1.0.0.184 | [1.0.0.185](DataArchivalApps_managed_Package_ver1.0.0.173.zip) |
+    | 1.0.0.172, 1.0.0.179 | [1.0.0.180](DataArchivalApps_managed_Package_ver1.0.0.180.zip) |
+    | 1.0.0.176, 1.0.0.182, 1.0.0.184 | [1.0.0.185](DataArchivalApps_managed_Package_ver1.0.0.185.zip) |
 - Deploy the package
     ```console
     pac package deploy --logconsole --package ".\DataArchivalApps_managed_Package_ver1.0.0.x.zip"
