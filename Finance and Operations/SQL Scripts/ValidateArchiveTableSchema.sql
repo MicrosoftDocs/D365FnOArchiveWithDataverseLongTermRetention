@@ -23,7 +23,7 @@ INSERT INTO @tmpDataTable values(2,'SO','SALESTABLE_BR','SALESTABLEHISTORY_BR','
 INSERT INTO @tmpDataTable values(2,'SO','SALESTABLE_RU','SALESTABLEHISTORY_RU','SalestableruBiEntity')
 INSERT INTO @tmpDataTable values(2,'SO','SALESTABLE_W','SALESTABLEHISTORY_W','SalestablewBiEntity')
 INSERT INTO @tmpDataTable values(3,'InvTrn','INVENTTRANSARCHIVE','INVENTTRANSARCHIVEHISTORY','InventtransarchiveBiEntity')
-INSERT INTO @tmpDataTable values(3,'InvTrn','INVENTTRANS','INVENTTRANSARCHIVEHISTORY,InventtransarchiveBiEntity')
+INSERT INTO @tmpDataTable values(3,'InvTrn','INVENTTRANS','INVENTTRANSARCHIVEHISTORY','InventtransarchiveBiEntity')
 INSERT INTO @tmpDataTable values(4,'InvJour','INVENTJOURNALTABLE','INVENTJOURNALTABLEHISTORY','InventjournaltableBiEntity')
 INSERT INTO @tmpDataTable values(4,'InvJour','INVENTJOURNALTABLE_IN','INVENTJOURNALTABLE_INHISTORY','InventjournaltableinBiEntity')
 INSERT INTO @tmpDataTable values(4,'InvJour','INVENTJOURNALTRANS','INVENTJOURNALTRANSHISTORY','InventjournaltransBiEntity')
